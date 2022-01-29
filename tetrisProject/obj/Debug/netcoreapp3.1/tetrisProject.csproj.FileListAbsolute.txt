@@ -1,0 +1,15 @@
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\bin\Debug\netcoreapp3.1\tetrisProject.exe
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\bin\Debug\netcoreapp3.1\tetrisProject.deps.json
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\bin\Debug\netcoreapp3.1\tetrisProject.runtimeconfig.json
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\bin\Debug\netcoreapp3.1\tetrisProject.runtimeconfig.dev.json
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\bin\Debug\netcoreapp3.1\tetrisProject.dll
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\bin\Debug\netcoreapp3.1\tetrisProject.pdb
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\obj\Debug\netcoreapp3.1\tetrisProject.Form1.resources
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\obj\Debug\netcoreapp3.1\tetrisProject.csproj.GenerateResource.cache
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\obj\Debug\netcoreapp3.1\tetrisProject.AssemblyInfoInputs.cache
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\obj\Debug\netcoreapp3.1\tetrisProject.AssemblyInfo.cs
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\obj\Debug\netcoreapp3.1\tetrisProject.csproj.CoreCompileInputs.cache
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\obj\Debug\netcoreapp3.1\tetrisProject.dll
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\obj\Debug\netcoreapp3.1\tetrisProject.pdb
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\obj\Debug\netcoreapp3.1\tetrisProject.genruntimeconfig.cache
+D:\КПІ ПРограмування\tetrisProject\tetrisProject\obj\Debug\netcoreapp3.1\tetrisProject.csprojAssemblyReference.cache
